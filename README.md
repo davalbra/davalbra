@@ -1,7 +1,8 @@
-![app](https://user-images.githubusercontent.com/74167198/214207098-fee3070e-a556-4c2d-b1bb-fb02f1a19cf6.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74167198/214207098-fee3070e-a556-4c2d-b1bb-fb02f1a19cf6.gif">
+</p>
 
 
-<h1></h1>
 <h1 align="center">Hi 👋, I'm David Bravo</h1>
 <h3 align="center">Skilled programmer with a passion for creating efficient solutions.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif">
