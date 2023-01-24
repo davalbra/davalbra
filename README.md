@@ -3,11 +3,7 @@
 <head>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-<style>
-.img-responsive {
-   width: 100vw;
-}
-</style>
+
 <p align="center">
   <img class="img-responsive" src="https://user-images.githubusercontent.com/74167198/214207098-fee3070e-a556-4c2d-b1bb-fb02f1a19cf6.gif">
 </p>
