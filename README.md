@@ -1,4 +1,5 @@
-<p align="center"> <img align="right" alt="coding" width="1800" src="https://im5.ezgif.com/tmp/ezgif-5-33d42264f9.gif" /> </p>
+![app](https://user-images.githubusercontent.com/74167198/214207098-fee3070e-a556-4c2d-b1bb-fb02f1a19cf6.gif)
+
 
 <h1></h1>
 <h1 align="center">Hi 👋, I'm David Bravo</h1>
