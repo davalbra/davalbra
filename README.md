@@ -84,13 +84,11 @@
 </details>
 
 ---
+## Actvity 3D
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+---
 
 ## Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davalbra&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davalbra&layout=compact&theme=transparent" alt="top langs" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=davalbra&theme=transparent&hide_border=true" alt="streak" />
